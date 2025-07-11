@@ -21,14 +21,14 @@ A dynamic **Pharmacy and Hospital Management Website** developed using **PHP**, 
 | Bootstrap  | Responsive UI components |
 
 ## 👩‍💻 Group Members
--isuru Dananjaya
--isura Udith
--Tharushi Nisansala
--Tharushi hansika
--Piyumi Madushani
--Poornima Rathnasingha
+- isuru Dananjaya 
+- isura Udith 
+- Tharushi Nisansala 
+- Tharushi hansika 
+- Piyumi Madushani 
+- Poornima Rathnasingha 
 
-_Add screenshots of homepage, medicine catalog, contact page, and admin dashboard._
+
 
 ## 🚀 How to Run Locally
 
